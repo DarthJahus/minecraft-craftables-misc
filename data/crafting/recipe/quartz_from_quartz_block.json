@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:quartz_block",
+  "template": "minecraft:flint",
+  "result": {
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Quartz shard\",\"italic\":false}"
+    },
+    "count": 4,
+    "id": "minecraft:quartz"
+  }
+}

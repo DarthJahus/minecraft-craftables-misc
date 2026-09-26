@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:potion",
+  "addition": "minecraft:emerald",
+  "template": "minecraft:emerald",
+  "result": {
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:luck",
+        "custom_name": "item.minecraft.potion.effect.luck"
+      }
+    },
+    "count": 1,
+    "id": "minecraft:potion"
+  }
+}

@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:smithing_trim",
-    "template": "minecraft:flint",
-    "base": "minecraft:stone_sword",
-    "addition": "minecraft:iron_ingot",
-    "result": {
-        "id": "minecraft:iron_sword"
-    }
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:flint",
+  "base": "minecraft:stone_sword",
+  "addition": "minecraft:iron_ingot",
+  "result": {
+    "id": "minecraft:iron_sword"
+  }
 }

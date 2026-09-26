@@ -3,15 +3,15 @@
   "show_notification": true,
   "category": "misc",
   "ingredients": [
-    "minecraft:charcoal",
-    "minecraft:coal",
-    "minecraft:charcoal",
-    "minecraft:coal",
-    "minecraft:charcoal",
-    "minecraft:coal",
-    "minecraft:charcoal",
-    "minecraft:coal",
-    "minecraft:charcoal"
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals",
+    "#minecraft:coals"
   ],
   "result": {
     "id": "minecraft:coal_block",

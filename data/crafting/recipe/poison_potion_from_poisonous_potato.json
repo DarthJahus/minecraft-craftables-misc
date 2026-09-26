@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:poisonous_potato",
+    "minecraft:potion"
+  ],
+  "result": {
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:poison",
+        "custom_effects": []
+      }
+    },
+    "count": 1,
+    "id": "minecraft:potion"
+  }
+}

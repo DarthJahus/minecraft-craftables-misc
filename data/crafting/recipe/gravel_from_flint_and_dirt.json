@@ -1,10 +1,12 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:carrot_on_a_stick"
+    "minecraft:dirt",
+    "minecraft:flint",
+    "minecraft:flint"
   ],
   "result": {
-    "id": "minecraft:stick",
+    "id": "minecraft:gravel",
     "count": 1
   }
 }
