@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:smithing_transform",
-  "template": "minecraft:flint",
-  "base": "minecraft:stone_pickaxe",
-  "addition": "minecraft:iron_ingot",
-  "result": {
-    "id": "minecraft:iron_pickaxe"
-  }
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flint",
+    "base": "minecraft:stone_pickaxe",
+    "addition": "minecraft:iron_ingot",
+    "result": {
+        "id": "minecraft:iron_pickaxe"
+    }
 }

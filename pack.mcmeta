@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 61,
-    "description": "Multiple new recipes to reduce waste."
+    "description": "Multiple new recipes to reduce waste.",
+    "min_format": 121.0,
+    "max_format": 121.0
   }
 }
