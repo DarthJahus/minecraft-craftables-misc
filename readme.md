@@ -2,6 +2,9 @@
 
 Extra crafting, smithing and stonecutting recipes to **reduce waste** and unlock items that are normally uncraftable or hard to obtain.
 
+[![Modrinth](https://img.shields.io/modrinth/dt/jahus-craftables?logo=modrinth&label=Modrinth)](https://modrinth.com/datapack/jahus-craftables)
+[![CurseForge](https://img.shields.io/curseforge/dt/1720141?logo=curseforge&label=CurseForge)](https://www.curseforge.com/projects/1720141)
+
 ---
 
 ## Equipment & gear
