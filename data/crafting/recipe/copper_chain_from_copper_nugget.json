@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["#", "#", "#"],
+    "key": { "#": "minecraft:copper_nugget" },
+    "result": { "id": "minecraft:copper_chain", "count": 1 }
+}
