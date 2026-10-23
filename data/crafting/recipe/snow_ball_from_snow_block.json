@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "ingredients": [
+    "minecraft:snow_block"
+  ],
+  "result": {
+    "id": "minecraft:snowball",
+    "count": 3
+  }
+}
