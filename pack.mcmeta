@@ -1,8 +1,8 @@
 {
   "pack": {
     "description": "Multiple new recipes to reduce waste.",
-    "min_format": 121.0,
-    "max_format": 121.0,
-    "version": "2026.10.16+26.3"
+    "min_format": 101.1,
+    "max_format": 125.1,
+    "version": "2026.11.02+26.x"
   }
 }
