@@ -14,7 +14,6 @@ Extra crafting, smithing and stonecutting recipes to **reduce waste** and unlock
 | **Chainmail armor** (full set) | Crafted from iron chains |
 | **Iron chain** | 3 iron nuggets (vertical) |
 | **Saddle** | Leather + wool + string + iron |
-| **Name tag** | Paper + string |
 | **Iron / Golden / Diamond horse armor** | Shaped recipes with the matching material + wool |
 | **Bell** | Sticks + iron chain + gold blocks + gold nugget |
 
